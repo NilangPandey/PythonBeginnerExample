@@ -1,0 +1,2 @@
+This is the file content which is to be written on another file.
+Go for it.
